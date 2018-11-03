@@ -1,0 +1,6 @@
+hello/wsdl/GetCountryRequest.class
+hello/wsdl/Country.class
+hello/wsdl/package-info.class
+hello/wsdl/GetCountryResponse.class
+hello/wsdl/ObjectFactory.class
+hello/wsdl/Currency.class
