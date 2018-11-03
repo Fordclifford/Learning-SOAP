@@ -6,5 +6,6 @@ io/spring/guides/gs_producing_web_service/ObjectFactory.class
 hello/CountryRepository.class
 hello/CountryEndpoint.class
 hello/Application.class
+.netbeans_automatic_build
 io/spring/guides/gs_producing_web_service/Currency.class
 io/spring/guides/gs_producing_web_service/Country.class
